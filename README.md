@@ -18,6 +18,10 @@ You can register via meetup https://www.meetup.com/machine-learning-hong-kong/
 * ### [Class 6: Johnson–Lindenstrauss lemma](https://github.com/roboticcam/machine-learning-notes/blob/master/files/j_l_lemma.pdf) ###
 
 
+# Generative AI
+
+* ### [Transfomer with PyTorch](https://github.com/roboticcam/machine-learning-notes/blob/master/files/transformer.pdf) ###
+
 # Video Tutorial to these notes 视频资料
 
 * I recorded about 20% of these notes in videos in 2015 in Mandarin (all my notes and writings are in English) You may find them on [Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) and [bilibili](https://space.bilibili.com/327617676) and [Youku](http://i.youku.com/i/UMzIzNDgxNTg5Ng)       
